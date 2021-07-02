@@ -1,6 +1,6 @@
 ##############################################################################################
 #
-# Title: PRUA - Password Reset Unlock Account Tools v1.0
+# Title: PRUA TOOLKIT - Password Reset Unlock Account Tools v1.0
 # Date Created : 06/28/2021
 # Author : Matthew Kurniawan
 # GitHub: https://github.com/secMK/PowerShell-Scripts
