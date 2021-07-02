@@ -6,3 +6,5 @@ Please read the header descriptions and comments in each script body, some conta
 <b>PRUA Toolkit - Password Reset Account Unlock:</b> Reset user passwords and unlock accounts, includes options to Get-ADUser info, password & account properties
 <br></br>
 <b>OneDrive Prokit:</b> Allows Sharepoint Administrators to quickly Provision OneDrive Accounts from a list of User Provisional Names listed in Users.txt & Get-All User OneDrive URLs in an organization
+<br></br>
+<b>OEMActivate:</b> Fetches the Windows OEM license from motherboard and activates Windows
