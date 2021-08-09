@@ -3,7 +3,7 @@
 
 Please read the header descriptions and comments in each script body, some contain important instructions or warnings.
 
-<b>ALEC.ps1:</b>  - Application List Extractor & Comparator: Extract List of Installed Application from any computer and output results to C:\Temp & Compare differences between installed applications from two computers
+<b>ALEC.ps1:</b>  - Application List Extractor & Comparator: Extract List of Installed Application from any computer and output results to C:\Temp & Compare differences between installed applications from two computers extracted Installed Application list
 <br></br>
 <b>Get-Server_Hosts_txt.ps1:</b> Provide list of RHOSTS to txt and run script to see if X Service is running on RHOSTS, example use case RHOSTS that have Print Spooler service running for CVE 2021 34527
 <br></br>
