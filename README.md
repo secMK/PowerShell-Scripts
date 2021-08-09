@@ -3,7 +3,8 @@
 
 Please read the header descriptions and comments in each script body, some contain important instructions or warnings.
 
-
+<b>ALEC - Application List Extractor & Comparator.ps1:</b> Extract List of Installed Application from any computer and output results to C:\Temp & Compare differences between installed applications from two computers
+<br></br>
 <b>Get-Server_Hosts_txt.ps1:</b> Provide list of RHOSTS to txt and run script to see if X Service is running on RHOSTS, example use case RHOSTS that have Print Spooler service running for CVE 2021 34527
 <br></br>
 <b>PRUA Toolkit - Password Reset Account Unlock:</b> Reset user passwords and unlock accounts, includes options to Get-ADUser info, password & account properties
