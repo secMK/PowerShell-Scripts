@@ -40,7 +40,7 @@ switch ($selection)
      '2'
      {
      $LogFile = [Environment]::GetFolderPath("Desktop") + "\OneDriveSites.log"
-     Connect-SPOService -Url https://defencehealthlimited-admin.sharepoint.com
+     Connect-SPOService -Url https://your_sharepoint_site_url-admin.sharepoint.com
      Get-SPOSite -IncludePersonalSite $true -Limit all -Filter "Url -like '-my.sharepoint.com/personal/'" | Select -ExpandProperty Url | Out-File $LogFile -Force
      Write-Host "Done! File saved as $($LogFile)."
      }
