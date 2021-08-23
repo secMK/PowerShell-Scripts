@@ -47,7 +47,7 @@ switch ($selection)
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see https://www.gnu.org/licenses.
     
-    Developed by Matthew Kurniawan for more information visit https://github.com/secMK/PowerShell-Scripts'
+    Developed by secMK for more information visit https://github.com/secMK/PowerShell-Scripts'
      return
      }
      'q'
