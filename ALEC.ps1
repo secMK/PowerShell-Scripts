@@ -5,7 +5,7 @@ function Show-Menu
         [string]$Title = 'Application List Extractor & Comparator'   
     )
     param (
-        [string]$Developer = 'Developer: Matthew Kurniawan Github: https://github.com/secMK/PowerShell-Scripts'   
+        [string]$Developer = 'Developer:secMK https://github.com/secMK/PowerShell-Scripts'   
     )
     Clear-Host
     Write-Host "================= $Title ======================================================================================="
